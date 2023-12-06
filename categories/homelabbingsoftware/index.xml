@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Homelab- Software on Blog - Recyber</title>
+        <link>https://mx64.github.io/categories/homelabbingsoftware/</link>
+        <description>Recent content in Homelab- Software on Blog - Recyber</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="https://mx64.github.io/categories/homelabbingsoftware/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
